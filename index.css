@@ -97,8 +97,11 @@ h5 , .price  {
 
 @media only screen  and (max-width:425px;)  {
     .container {
-        width: 80%;
-        margin: 0 30px;
+        width: 50%;
+        margin: 0 auto;
+        align-item: center;
+
+
     }
     body {
         background-image: url(images/pattern-background-mobile.svg);
