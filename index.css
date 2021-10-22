@@ -27,7 +27,7 @@ body  {
 
 .container  {
     background-color: white;
-    max-width: 450px;
+
     border-radius: 20px;
     overflow: hidden;
 }
@@ -39,7 +39,7 @@ body  {
 
 h2  {
     text-align: center;
-    color: hsl(223, 47%, 23%);
+    color: hsl(223, 47%, 23%); 
     font-weight: 900;
     margin-bottom: 15px;
 }
@@ -97,8 +97,8 @@ h5 , .price  {
 
 @media only screen  and (max-width:425px;)  {
     .container {
-        width: 50%;
-        margin: 0 auto;
+        width: 80%;
+        margin: 0 30px;
         align-item: center;
 
 
