@@ -27,7 +27,7 @@ body  {
 
 .container  {
     background-color: white;
-
+    width: 300px;
     border-radius: 20px;
     overflow: hidden;
 }
